@@ -1058,10 +1058,10 @@ fix-path@^2.1.0:
   dependencies:
     shell-path "^2.0.0"
 
-fkill@^7.0.1:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/fkill/-/fkill-7.1.0.tgz#a916e39e935010ab51086cc94c6bf99b6d4e0ed8"
-  integrity sha512-l8zya4nRaXya4DJbSIkCCpJfE9+M0z8vbWDN+CynvNFIAWNZhBBS/G5c7t2l1NvtTpVcmCvnTm94bUICkRcqRQ==
+fkill@^7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/fkill/-/fkill-7.2.1.tgz#7036200cd2edd28a6bc40f0defc1e159d9e24e64"
+  integrity sha512-eN9cmsIlRdq06wu3m01OOEgQf5Xh/M7REm0jfZ4eL3V3XisjXzfRq3iyqtKS+FhO6wB36FvWRiRGdeSx5KpLAQ==
   dependencies:
     aggregate-error "^3.1.0"
     arrify "^2.0.1"

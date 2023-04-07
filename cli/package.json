@@ -33,7 +33,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "fix-path": "^2.1.0",
-    "fkill": "^7.0.1",
+    "fkill": "^7.2.1",
     "git-repo-info": "^2.1.0",
     "just-enough-logger": "^1.0.1",
     "lowdb": "^1.0.0",
