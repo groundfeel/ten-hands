@@ -6,7 +6,7 @@
   "author": "Sai Sandeep Vaddi <saisandeepvaddi@gmail.com>",
   "dependencies": {
     "axios": "^0.21.1",
-    "gatsby": "^2.15.28",
+    "gatsby": "^4.25.2",
     "gatsby-image": "^2.2.23",
     "gatsby-plugin-google-tagmanager": "^2.1.15",
     "gatsby-plugin-manifest": "^2.2.20",
